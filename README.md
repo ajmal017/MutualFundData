@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://twitter.com/anshul81">
+      <img src="https://img.shields.io/twitter/follow/anshul81?style=social" alt="Twitter Follow" />
+        </a>
+        </p>
+        
 This plugin is for my learning purpose. The plugin makes use of an [external service](https://groww.in) for fetching the Mutual Fund Data. Here's the link to Groww's [terms and conditions](https://groww.in/terms-and-conditions/)
 
 > Although Groww prohibits the reuse of their data, in this case they have graciously agreed to make an exception. If you plan to use/extend Groww APIs, please take permission from Groww.
